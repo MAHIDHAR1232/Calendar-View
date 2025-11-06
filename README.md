@@ -1,4 +1,4 @@
-# Calendar Component Library
+# Calendar View
 
 A complete, production-ready calendar component library built with React, TypeScript, TailwindCSS, and Storybook.
 
